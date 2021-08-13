@@ -1,4 +1,4 @@
-const token = "ODc1NjU1MDk1OTQ4MzA4NDgx.YRYrWw.OggW-HCjpXjmluYXxHI9jGuK8C0" //le token de votre bot
+const token = "ODc1NjU1MDk1OTQ4MzA4NDgx.YRYrWw.A7sRDGh787hWwaGVrEd6hUD41J0" //le token de votre bot
 const prefix = "&" //votre préfixe ([préfixe]help)
 const discordstatus = "https://discord.gg/94wAnCC98t" //le statut de votre bot (par exemple : "salut!" qui donnera "joue à salut!") [note : ce statut changera de temps en tant avec un autre rappelant que Accio a fait ce programme ou avec votre discordstatus 2]
 const discordstatus2 = "Rejoins-nous !" //un deuxième statut pour votre bot [note : ce statut changera de temps en tant avec un autre rappelant que Accio a fait ce programme, ou avec votre discordstatus 1]
